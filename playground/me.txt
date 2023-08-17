@@ -1,5 +1,0 @@
-{{#user}
-Name: Sahil
-Skills: HTML, CSS, Reactjs
-Email: mahadiksahil60@gmail.com
-{{/user}}
